@@ -29,7 +29,7 @@ setup(
     url="https://github.com/ydataai/ydata-profiling",
     license="MIT",
     description="Generate profile report for pandas DataFrame",
-    python_requires=">=3.7, <3.13",
+    python_requires=">=3.11, <3.13",
     install_requires=requirements,
     extras_require={
         "notebook": [
